@@ -1,7 +1,7 @@
 # MTA-SA-screen-mirror
 Screen, key and mouse inverting script for vehicles in MTA:SA
 
-Be aware, mouse script still does not replicate original GTA:SA's camera behaviour, 
+Be aware, mouse script still does not replicate original GTA:SA's camera behaviour.
 
 ## Installation
 - Add mirror.lua to your map.
